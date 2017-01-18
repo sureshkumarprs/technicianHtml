@@ -365,38 +365,21 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){display: none;}
 .productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .myfav{margin-left: 9px;}
 .productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .allTips{margin-left: 9px;}
 .productPageLayout .rightMenuPane.TipsAndTricks .overViewPane button{height: 38px;border: 1px solid #f6f6f6;border-radius: 5px; margin-left:15px;}
-.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .numbering{margin-left: 29px; margin-bottom:40px;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .numbering{margin-left: 15px; margin-bottom:40px;}
 .productPageLayout .rightMenuPane.TipsAndTricks .overViewPane #accordion1 .panel-default .panel-title {margin-top: -1px;}
 .productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList{margin-top:20px;}
 .productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList .TipsList #headingOne{height: 52px; padding-top: 1px; padding-bottom: 1px; padding-left: 1px; padding-right: 0px;}
 .productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1{margin-left:15px; margin-right:10px;}
 .productPageLayout .rightMenuPane.TipsAndTricks .overViewPane #accordion1 .panel-default{margin-top:0px;}
-	.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList .TipsList  a .fa-angle-down{background:#c9c9c9;padding-bottom: 11px;
-    width: 45px;
-    padding-top: 13px;
-    font-weight: bold;
-    padding-left: 13px;
-    color:#656565;
-    font-size: 28px;
-	margin-left:572px;
-    }
-	.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList .TipsList  a .fa-lightbulb-o{background:#c9c9c9;
-    padding: 11px;
-    padding-top: 15px;
-    width: 45px;
-    color:#656565;
-    font-weight: bold;
-    font-size: 26px;}
-	.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1 .panel-heading.active{background:#7c7c7e;}
-	.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1 .panel-heading.active a .fa-angle-down{background:#ed1b24; color:#ffffff}
-	.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1 .panel-heading.active a .fa-lightbulb-o{background:#ed1b24; color:#ffffff}
+	
+	
 	.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList .TipsList #headingTwo{height: 52px; padding-top: 1px; padding-bottom: 1px; padding-left: 1px; padding-right: 0px;}
 	.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList .TipsList #headingThree{height: 52px; padding-top: 1px; padding-bottom: 1px; padding-left: 1px; padding-right: 0px;}
     .productPageLayout .rightMenuPane.TipsAndTricks .share{color:white;margin-left: 25px; margin-right: 36px;  background: #363437; padding: 1px; border-radius:4px; margin-top:25px;margin-bottom: 40px;}
 	.productPageLayout .rightMenuPane.TipsAndTricks .share .row img{padding-left:95px;}
 	.productPageLayout .rightMenuPane.TipsAndTricks .share .row{margin-left: 25px; margin-right: 36px;}
 	.productPageLayout .rightMenuPane.TipsAndTricks .share .row h3{margin-top:22px; margin-bottom:42px; margin-left:10px;}
-	.productPageLayout .rightMenuPane.TipsAndTricks .share .shareTrick{background:#fefefe;height:180px; width:875px; margin-left:30px;margin-right:25px; border-radius: 6px; }
+	.productPageLayout .rightMenuPane.TipsAndTricks .share .shareTrick{background:#fefefe;width:875px; margin-left:30px;margin-right:25px; border-radius: 6px; color:#999a9c;padding-bottom:180px; }
 	.productPageLayout .rightMenuPane.TipsAndTricks .share button{margin-left: 30px;
 margin-right: 16px;
 margin-top: 24px;
@@ -407,6 +390,26 @@ border-radius: 25px;
 color: white;
 border: 1px solid #ed1b24;
 margin-bottom:20px;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .searchtips .radioButtonSelect .allTips{margin-left:50px; margin-top:10px;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .desktopSearchButton{position: absolute;right: 55px;width: 39px;z-index: 100;top: 0;height: 35px;opacity: 0;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .input-group-btn{right: 56px;z-index: 100;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .input-group-btn .btn.btn-default{background: transparent !important;border: none;height: 39px;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .desktopSearchButton{position: absolute;right: 0;width: 39px;z-index: 100;top: 0;height: 35px;opacity: 0;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .input-group-btn{right: 0;z-index: 100;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .input-group-btn .btn.btn-default{background: transparent !important;height: 33px;border: none;box-shadow: none;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList .TipsList  a .lightBulb{background: #ccc none repeat scroll 0 0;float: left;padding: 13px 0;text-align: center;width: 50px;font-size: 24px;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList .TipsList  a .angleDown{background: #ccc none repeat scroll 0 0;float: right;padding: 13px 0;text-align: center;width: 50px;font-size: 24px;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1 .panel-heading.active a .angleDown{background:#ed1b24; color:#ffffff}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1 .panel-heading.active a .lightBulb{background:#ed1b24; color:#ffffff}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1 .panel-heading.active{background:#7c7c7e;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1 .panel-heading.active .desc{color:#f7f7f7;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .itemList #accordion1 .panel .desc{color: #626262;float: left;font-size: 13px;font-weight: 600;line-height: 4;margin-left: 10px;width: 87%;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .searchtips h4{margin-left:31px; color: #8d8d8d;font-weight: 400;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .searchtips .searchButton{margin-left:0px;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .searchtips .searchButton .input-group{margin-left: 15px;height: 38px;width: 356px;background: #f1f1f1;border-radius: 4px;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane .searchtips .searchButton .input-group .form-control{width: 100%;float: left;border: none;outline: none;background: transparent;}
+.productPageLayout .rightMenuPane.TipsAndTricks .overViewPane button .search{padding-right: 267px; }
+	
 
 /*--------------------------------------------------------------------------------------*/
 /*                                   Added by Jyothi                                    */
