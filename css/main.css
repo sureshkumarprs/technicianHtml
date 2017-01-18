@@ -445,6 +445,22 @@ margin-bottom:20px;}
 .rightMenuPanedashboard  .row.Techniciandashboard .TechnicianBulletins .techdashboard .techcontent  ul li .download a i{color:#5778fd;}
 .rightMenuPanedashboard  .row.Techniciandashboard .TechnicianBulletins .techdashboard .techcontent .viewall a{color:#ef343b;float:right;margin:10px;}
 
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout {padding:25px;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender{width:574px;height:265px;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender .calenderevent{width:247px;height:265px;background:#dfe0e2;border-radius:5px 0 0 5px;width:40%}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender .upcomingeventcontent{width: 327px;background:#fefefe;height:265px;border-radius:0 5px 5px 0; width:60%;padding:5px;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender  .upcomingeventcontent .eventcontent ul{list-style:none;padding-left:10px;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender  .upcomingeventcontent .eventcontent ul li{border-bottom: 1px solid grey;padding:8px;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender  .upcomingeventcontent .eventcontent ul li:last-child{border:none;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender  .upcomingeventcontent .eventcontent ul li .eventtext{color:#ef343b;font-size:13px;font-family:arial;padding-left: 10px;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender  .upcomingeventcontent .eventcontent ul li .eventtext2 {font-weight: normal;font-style: italic;font-size: 13px;color:#8b8b8b;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender  .upcomingeventcontent .eventcontent ul li  .map{padding-left:50px;color:#557af7;}
+.rightMenuPanedashboard  .row.technicianlogincalendertweetlayout .upcomingevents .row.calender  .upcomingeventcontent .viewall a{color:#ef343b;float:right;margin:3px;}
+.bootstrap-datetimepicker-widget table td.active, .bootstrap-datetimepicker-widget table td.active:hover{background-color: white;color: #FFF;}
+.bootstrap-datetimepicker-widget table td,.bootstrap-datetimepicker-widget table th {text-align: center;border-radius:16px !important;}
+.bootstrap-datetimepicker-widget {color:#808082;}
+.bootstrap-datetimepicker-widget table thead tr:first-child th {color:#38383a;border-bottom: 2px solid #38383a;}
+.bootstrap-datetimepicker-widget table td.active,.bootstrap-datetimepicker-widget table td.active:hover {background-color: #f0f0f0 !important ;color:#808082 !important;}
 
 
 .rightMenuPanedashboard  .row.Techniciandashboard  .dashboardcontent2 .seconddashboard{width:570px;height:280px;margin-left: 29px;  }
