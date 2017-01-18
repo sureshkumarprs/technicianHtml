@@ -166,14 +166,17 @@
     <div class="container">
       <div class="row productPageLayout">
         <div class="col-md-2 col-sm-2 col-xs-12 leftMenuPane techinicianlogin hidden-xs hidden-sm">
-        <img src="images/tech-center.png"/>
-		<h4>TECHNICIAN CENTER</h4>
-		 <img id="Top-car" src="images/car.png"/> <span>John Doe</span>
-           <div id="accordion">
+		<div class="technicialLoginHeading">TECHNICIAN CENTER</div>
+		<div class="userProfile">
+			<span class="userImage"><img id="Top-car" src="images/car.png"/></span> 
+			<span class="userName ellipsis">John Doe</span>
+		</div>
+		        <div class="technicialLeftAccordianPane"> 
+		         <div id="accordion">
                     <ul>
                   <li><a href="#" class="activeTabLink"><span><i class="fa fa-home" aria-hidden="true"></i></span><span>Dashboard</span></a></li>
                   <li>
-                    <div><span><i class="fa fa-graduation-cap" aria-hidden="true"></i></span><span>Learning Center</span><span><i class="fa fa-angle-left" aria-hidden="true"></i></span></div>
+                    <div class="learningCenterAccordion"><span><i class="fa fa-graduation-cap" aria-hidden="true"></i></span><span>Learning Center</span><span><i class="fa fa-angle-left" aria-hidden="true"></i></span></div>
                     <ul>
                         <li><a href="#">How to Videos</a></li>
                         <li><a href="#">Tips and Tricks</a></li>
@@ -188,6 +191,8 @@
 				  <li><a href="#"><span><i class="fa fa-calendar" aria-hidden="true"></i></span><span>Events</span></a></li>
 				  <li><a href="#"><span><i class="fa fa-user-o" aria-hidden="true"></i></span><span>My Profile</span></a></li>
                   </ul>
+				  </div>
+				  </div>
 				<div class="LiveChatBlock">
 				<button><span><i class="fa fa-comments-o" aria-hidden="true"></i></span><span id="LiveChat">Live Chat</span></button>
 				   <ul id="contact">
@@ -205,7 +210,7 @@
 				</ul>
 				</div>
 				</div>
-            </div>
+            
 
         </div>
         <div class="col-md-10 rightMenuPane TipsAndTricks">

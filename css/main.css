@@ -322,6 +322,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){display: none;}
 .productPageLayout .leftMenuPane.techinicianlogin .userProfile .userName{ color: #fff;width: 108px;float: right;padding: 26px 0 0;font-size: 12px;font-weight: bold;}
 .ellipsis {white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
 .productPageLayout .leftMenuPane.techinicianlogin .technicialLeftAccordianPane{width: 100%; float: left; padding: 15px 0;}
+.productPageLayout .leftMenuPane.techinicianlogin .technicialLeftAccordianPane .learningCenterAccordion{color: white;text-transform: none;padding: 10px 0 10px 10px !important;}
 .productPageLayout .leftMenuPane.techinicianlogin #accordion  ul li a{color:white;text-transform:none; padding:10px 0 10px 10px; }
 .productPageLayout .leftMenuPane.techinicianlogin #accordion  ul li{text-transform:none;}
 .productPageLayout .leftMenuPane.techinicianlogin #accordion  ul li i{color:white; width:21px; height:16px; }
